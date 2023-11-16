@@ -1,0 +1,24 @@
+[33mcommit 0c359864b8d043e621ae2ad7ef7f992e1480729a[m[33m ([m[1;36mHEAD -> [m[1;32mdevelopment[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: b33cd34 27a0931
+Author: ok <ok@efrei.net>
+Date:   Fri Oct 6 11:43:32 2023 +0200
+
+    Merge branch 'main' of github.com:badassleo/efrei-git
+
+[33mcommit 27a093154daffca35307e6f527c4896f0fa41eb4[m
+Author: badassleo <147146360+badassleo@users.noreply.github.com>
+Date:   Fri Oct 6 11:24:29 2023 +0200
+
+    Initial commit
+
+[33mcommit b33cd342f4608bcb52fa6aa17bb399a6bdc02a10[m[33m ([m[1;33mtag: v1.0.2[m[33m)[m
+Author: ok <ok@efrei.net>
+Date:   Fri Oct 6 10:39:15 2023 +0200
+
+    Remove .env from git hsitory
+
+[33mcommit d3a0121e576af62675065d45c7615583f86de969[m[33m ([m[1;33mtag: v1.0.0[m[33m)[m
+Author: ok <ok@efrei.net>
+Date:   Fri Oct 6 10:04:34 2023 +0200
+
+    Iniatialize repo with README file
